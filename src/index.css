@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "CodaExtraBold";
+  src: local("CodaExtraBold"),
+  url("./fonts/Coda-ExtraBold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+font-family: "CodaRegular";
+src: local("CodaRegular"),
+url("./fonts/Coda-Regular.ttf") format("truetype");
+font-weight: normal;
+}
