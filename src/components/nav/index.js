@@ -3,7 +3,7 @@ import React from 'react';
 function Nav() {
     return (
         <header>
-            <nav className="border">
+            <nav>
                 <h2 className="font-link">
                     Task Force: Legion
                 </h2>
